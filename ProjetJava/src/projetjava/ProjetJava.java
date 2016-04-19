@@ -7,7 +7,7 @@ package projetjava;
 
 /**
  *
- * @author yves
+ * @author Bortels Sulivan, Dargent Corentin, Debast Yves
  */
 public class ProjetJava {
 
